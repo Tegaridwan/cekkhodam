@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+ - Install Aplikasi: https://www.mediafire.com/file/psm8xv68estd0k7/cekkhodam.apk/file
+ - playstore(comingsoon)
+
